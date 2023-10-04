@@ -3,6 +3,6 @@
 num = 8
 
 if num % 2 == 0:
-    print() # par ou impar?
+    print("Esse numero é:") # par ou impar?
 else:
-    print() # par ou impar?
+    print("Esse numero é:") # par ou impar?
