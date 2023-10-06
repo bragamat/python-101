@@ -1,4 +1,4 @@
-# A: Declare uma variavel `age` e de um valor `int` a ela
+# A: Declare uma variavel `age` e atribua um valor `int` a ela
 print(age)
 
 # B: Declare uma variavel `name` e de seu nome a ela como `string`.
